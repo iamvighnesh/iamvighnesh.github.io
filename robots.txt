@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://iamvighnesh.github.io/sitemap.xml
